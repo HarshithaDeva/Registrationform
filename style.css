@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, sans-serif;
+    background: url("https://lh3.googleusercontent.com/proxy/0IB82zxj61o6qsFtICUaAbrvDGmH8WERAK5ZaC2YMPvnD8ASOJg_VkJTmAyXcapPEFaU99ciBVnXYQDQuIbAN0SE92PpndpceC7V-derTkQaUXq5dP8po_G009jMF20igGxkRzk");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+form{
+    background:url("https://www.fonewalls.com/wp-content/uploads/2019/10/Gradient-Background-Wallpaper-003.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    color: aliceblue;
+    width: max-content;
+    margin-left: 550px;
+}
+.info,.info1{
+    width: 400px;
+    margin: auto auto auto auto;
+    padding: 20px;
+} 
+h1{
+    text-align: center;
+}
+
+.info input{
+    float:right;
+}
+#sbmit{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-left: 150px;
+    width: 100px;
+    padding: 8px;
+    background-color:violet;
+    cursor: pointer;
+    border:none;
+    border-radius: 4px;
+}
